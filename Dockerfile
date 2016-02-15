@@ -1,4 +1,4 @@
-FROM martinsoto/rocksdb:latest
+FROM martinsoto/pyrocksdb:latest
 
 MAINTAINER Martin Soto <donsoto@gmail.com>
 
